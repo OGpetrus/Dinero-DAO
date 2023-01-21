@@ -1,0 +1,13 @@
+input{
+    outline: none;
+}
+image{
+    width: 100%;
+}
+.phase::before{
+    content: "";
+    height: 3em;
+    background-color: #fff;
+    display: block;
+    
+}
